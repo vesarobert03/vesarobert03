@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vesarobert03
 - 👀 I’m interested in learning new things in the tech industry
-- 🌱 I’m currently learning advanced aspects about C++
 - 📫 How to reach me: robertvesa75@gmail.com
 
 <!---
